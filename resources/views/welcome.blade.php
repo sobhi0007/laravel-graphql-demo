@@ -7,7 +7,7 @@
     <title>Orders Table</title>
 </head>
 <body>
-    @livewire('orders-livewire-table')
+    @livewire('orders-table')
 
     @livewireScripts
 </body>
